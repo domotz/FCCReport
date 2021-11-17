@@ -1,0 +1,5 @@
+#You need install these requirements from Command line or Terminal on your system!
+
+fire==0.4.0
+requests==2.26.0
+xlsxwriter==1.3.8
